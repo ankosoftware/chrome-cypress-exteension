@@ -1,5 +1,5 @@
 # Cypress Logs Extension
-Hides all cypress list items except 
+Hides all cypress list items except logs
 
 ## How to install
 1. Clone repository
