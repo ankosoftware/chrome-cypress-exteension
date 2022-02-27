@@ -1,7 +1,7 @@
-#Cypress Logs Extension
+# Cypress Logs Extension
 Hides all cypress list items except 
 
-##How to install
+## How to install
 1. Clone repository
 2. Run Cypress Test
 3. Click on plugin icon ![](imgs/pluginButton.png)
