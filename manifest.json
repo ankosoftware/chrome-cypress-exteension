@@ -1,0 +1,14 @@
+{
+  "name": "ANKO Cypress Extension",
+  "description": "Filters logs",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {}
+}
